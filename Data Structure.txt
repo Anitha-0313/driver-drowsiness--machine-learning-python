@@ -1,0 +1,56 @@
+Driver Drowsiness Classification Based on Eye Blink and Head Movement Features Using the k-NN Algorithm
+
+driver camera, driver drowsiness monitoring, k-Nearest Neighbor classification, feature selection
+
+
+Driver_Drowsiness_Classification
+
+
+driver_drowsiness_classification
+
+
+Reasons
+
+
+sleepiness or fatigue,
+untreated sleep disorders, 
+medications, 
+drinking alcohol, 
+shift work,
+
+
+Difficulty focusing and inattentiveness
+Repeated yawning,
+head bobbing and inability to keep eyes open.
+Feeling restless,
+irritable or impatient
+Disconnected or wandering thoughts
+
+
+
+Aggressiveness and Anger. 
+
+Aggressiveness and anger are emotional states that extremely
+influence driving behaviour and increase the risk of causing an accident
+
+
+
+Vechile_no
+reg_State
+driver_dl_no
+vehicle_status
+driver_steering_behavior
+driver_drowsiness_status
+causeOf_drowsiness
+detection_speed
+detection_place
+detection_city
+detection_time
+detection_date
+
+
+
+
+
+
+
